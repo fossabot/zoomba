@@ -3,6 +3,7 @@ Zoomba
 [![PyPI version](https://badge.fury.io/py/robotframework-zoomba.svg)](https://badge.fury.io/py/robotframework-zoomba)
 [![Build Status](https://travis-ci.org/Accruent/robotframework-zoomba.svg?branch=master)](https://travis-ci.org/Accruent/robotframework-zoomba)
 [![Coverage Status](https://coveralls.io/repos/github/Accruent/robotframework-zoomba/badge.svg?branch=master)](https://coveralls.io/github/Accruent/robotframework-zoomba?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWolfe1%2Fzoomba.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FWolfe1%2Fzoomba?ref=badge_shield)
 
 Introduction
 -----------
@@ -66,3 +67,7 @@ Support
 General Robot Framework questions should be directed to the [community forum](https://groups.google.com/forum/#!forum/robotframework-users).
 
 Contact the team at `robosquad@accruent.com` or create an issue with specific requests or questions regarding the Zoomba libraries!
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FWolfe1%2Fzoomba.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FWolfe1%2Fzoomba?ref=badge_large)
